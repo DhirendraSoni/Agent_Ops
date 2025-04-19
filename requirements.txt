@@ -1,1 +1,3 @@
 agentops
+crewai
+python-dotenv

@@ -1,5 +1,5 @@
 # Add API KEY in .env file, get from https://app.agentops.ai/settings/projects
-AGENTOPS_API_KEY = "433e709c-efe7-444e-995c-788d0b405009"
+#AGENTOPS_API_KEY = "<AGENTOPS_API_KEY>"
 # Install pip install agentops or pip install 'crewai[agentops]'
 
 from crewai import Agent, Crew, Task, Process
